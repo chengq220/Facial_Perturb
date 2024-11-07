@@ -1,4 +1,4 @@
-"Leaving Some Facial Features Behind"
+Code for the paper "Leaving Some Facial Features Behind"
 1. Install dependencies by using `pip install -r requirements.txt`
 2. Navigate to `/data` and run `bash getDataset.sh` to extract the dataset into the current folder
 
